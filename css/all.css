@@ -510,3 +510,6 @@ body {
 .content__link {
   color: blue;
   text-transform: uppercase; }
+
+.content__banner img {
+  width: 100%; }
